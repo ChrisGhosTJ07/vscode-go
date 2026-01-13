@@ -16,7 +16,7 @@ provides rich language support for the
 ## Quick Start
 
 Welcome! 👋🏻<br/>
-Whether you are new to Go or an experienced Go developer, we hope this
+Whether you are new to Go or an experienced Go developer, we hope this	
 extension fits your needs and enhances your development experience.
 
 1.  Install [Go](https://go.dev) 1.21 or newer if you haven't already.
